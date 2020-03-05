@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: test.devops.com.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.444 s - in test.devops.com.AppTest
